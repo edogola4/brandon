@@ -288,6 +288,7 @@ header .navbar ul li a:hover {
   }
   
 /* social icons start */
+/* Social Icons Start */
 .socials {
   position: relative;
   margin-top: 9rem;
@@ -312,8 +313,6 @@ header .navbar ul li a:hover {
   text-align: center;
   margin-right: 8px;
   border-radius: 100%;
-  -webkit-transition: all 0.2s linear;
-  -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
 .social-icons a:active,
@@ -322,11 +321,10 @@ header .navbar ul li a:hover {
   color: #fff;
   background-color: #0685da;
 }
+
+/* Hover Effects for Social Icons */
 .social-icons a.github:hover {
   background-color: #0e0e0e;
-}
-.social-icons a.twitter:hover {
-  background-color: #0d8ddb;
 }
 .social-icons a.linkedin:hover {
   background-color: #007bb6;
@@ -337,6 +335,20 @@ header .navbar ul li a:hover {
 .social-icons a.instagram:hover {
   background-color: #b42e39;
 }
+.social-icons a.facebook:hover {
+  background-color: #3b5998;
+}
+.social-icons a.tiktok:hover {
+  background-color: #010101;
+}
+.social-icons a.youtube:hover {
+  background-color: #ff0000;
+}
+.social-icons a.x:hover {
+  background-color: #1d9bf0;
+}
+/* Social Icons End */
+
 /* social icons end */
 
 /* hero media queries starts*/
