@@ -1,7 +1,6 @@
-# brandon
 # Brandon Ogola - Personal Portfolio
 
-Welcome to **Brandon Ogola's** personal portfolio website. Brandon is a passionate **Full-Stack Web Developer** and **Android App Developer** based in Nairobi, Kenya. This portfolio showcases his skills, projects, and professional background in web development, AI, and more.
+Welcome to **Brandon Ogola's** personal portfolio website. Brandon is a passionate **Full-Stack Web Developer** and **Android App Developer** based in Nairobi, Kenya. This portfolio showcases his skills, projects, professional background in web development, AI, and more.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,13 +13,14 @@ Welcome to **Brandon Ogola's** personal portfolio website. Brandon is a passiona
 - [Contact](#contact)
 
 ## Introduction
-This portfolio website serves as a personal branding platform where I displays his development skills, work experience, and academic achievements. It's designed to provide an overview of his expertise in building full-stack web applications and AI-based systems.
+This portfolio website serves as a personal branding platform where I display my development skills, work experience, and academic achievements. It's designed to provide an overview of my expertise in building full-stack web applications and AI-based systems.
 
 ## Features
 - A clean, responsive design optimized for different screen sizes.
 - Easy navigation through sections such as Home, About, Skills, Projects, Experience, and Contact.
-- Integrated social media icons with links to My LinkedIn, GitHub, Twitter, and Instagram profiles.
-- A downloadable PDF resume for easy access to My professional details.
+- **Interactive Chatbot**: Newly incorporated chatbot that provides a dynamic and engaging way for visitors to learn more about my portfolio, skills, and projects.
+- Integrated social media icons with links to my LinkedIn, GitHub, Twitter, and Instagram profiles.
+- A downloadable PDF resume for easy access to my professional details.
 
 ## Technologies Used
 - **HTML5**: For creating the structure of the website.
@@ -31,7 +31,7 @@ This portfolio website serves as a personal branding platform where I displays h
 - **Python & TensorFlow**: Used in projects like AI chatbots and ML models.
   
 ## Skills
-This section highlights My technical skills, along with progress bars representing his proficiency in:
+This section highlights my technical skills, along with progress bars representing proficiency in:
 - **Python** (95%)
 - **JavaScript** (90%)
 - **React.js** (80%)
@@ -55,7 +55,7 @@ Brandon has over 3 years of experience in full-stack development. His expertise 
 ## Education
 - **Bachelor of Arts in Political Science and Literature** - University of Nairobi (Ongoing).
 - **Software Engineering Bootcamp** - Moringa School (Completed).
-- **Software Engineering Bootcamp** - Somakodi School(Ongoing)
+- **Software Engineering Bootcamp** - Somakodi School (Ongoing)
   
 ## Contact
 You can reach Brandon via email at **brandon14ogola@gmail.com** or through his social media profiles:
@@ -64,4 +64,5 @@ You can reach Brandon via email at **brandon14ogola@gmail.com** or through his s
 - [Twitter](https://twitter.com/BrandonOgola)
 - [Instagram](https://www.instagram.com/ja._.tech/)
 
-Feel free to explore the website and connect with me for any collaboration opportunities or queries.
+Feel free to explore the website, chat with the bot, and connect with me for any collaboration opportunities or queries.
+
