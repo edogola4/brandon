@@ -1328,3 +1328,18 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
+/* Move Tawk.to widget to the left */
+#tawkchat-container {
+    position: fixed;
+    left: 0;
+    bottom: 10px; /* Adjust as needed */
+    transform: translateX(-100%);
+    transition: transform 0.5s ease-in-out;
+}
+
+/* Slide in effect when hovered */
+#tawkchat-container:hover {
+    transform: translateX(0);
+}
+
