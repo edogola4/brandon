@@ -52,11 +52,7 @@ Some of the projects showcased on the website include:
 ## Experience
 Brandon has over 3 years of experience in full-stack development. His expertise extends to freelancing, where he has contributed to various open-source projects and completed numerous client-based projects focusing on modern web development technologies.
 
-## Education
-- **Bachelor of Arts in Political Science and Literature** - University of Nairobi (Ongoing).
-- **Software Engineering Bootcamp** - Moringa School (Completed).
-- **Software Engineering Bootcamp** - Somakodi School (Ongoing)
-  
+
 ## Contact
 You can reach Brandon via email at **brandon14ogola@gmail.com** or through his social media profiles:
 - [LinkedIn](https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/)
