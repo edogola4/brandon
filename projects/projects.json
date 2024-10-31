@@ -1,0 +1,134 @@
+[
+  {
+    "name": "AI-Powered Chatbot for Customer Support",
+    "desc": "Developed a chatbot using Natural Language Processing (NLP) and machine learning models, integrated with platforms like Facebook Messenger and WhatsApp, deployed using AWS Lambda.",
+    "image": "aichatbot",
+    "category": "ai",
+    "technologies": "Python, TensorFlow, AWS, NLP, Chatbot API",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "E-commerce Website with Dynamic Recommendation Engine",
+    "desc": "Built an e-commerce platform with a recommendation engine to personalize product suggestions using collaborative and content-based filtering. Deployed on Heroku with secure Stripe payment integration.",
+    "image": "ecommerce",
+    "category": "web",
+    "technologies": "React.js, Node.js, MongoDB, Python, Stripe API",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Serverless IoT Home Automation System",
+    "desc": "Created a system to control and monitor home appliances remotely using IoT devices and serverless architecture, integrated with AWS IoT Core, and Google Assistant for voice control.",
+    "image": "iothomeautomation",
+    "category": "iot",
+    "technologies": "AWS IoT, Lambda, MQTT, Python, React Native, Google Assistant",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Email-Signature-Extraction-with-LLMs",
+    "desc": "A project that compares Large Language Models (LLMs) like OpenAI's GPT-3.5 turbo and Anthropic Claude 3 for email signature extraction.",
+    "image": "email_signature_extraction",
+    "category": "ai",
+    "technologies": "Python, OpenAI API, Anthropic API",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/edogola4/Email-Signature-Extraction-with-LLMs"
+    }
+  },
+  {
+    "name": "Restaurant Website",
+    "desc": "A responsive website template for a restaurant using HTML, CSS, and JavaScript with animations, smooth scrolling, and a dark/light theme.",
+    "image": "restaurant_website",
+    "category": "web",
+    "technologies": "HTML, CSS, JavaScript",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/edogola4/restaurant-website"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "A basic weather application built using HTML, CSS, and JavaScript, integrating an external API to display weather data.",
+    "image": "weather_app",
+    "category": "web",
+    "technologies": "HTML, CSS, JavaScript, API Integration",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/edogola4/weather-app"
+    }
+  },
+  {
+    "name": "Real-time Weather Application",
+    "desc": "An application displaying real-time weather updates using API integrations.",
+    "image": "real_time_weather",
+    "category": "web",
+    "technologies": "HTML, CSS, JavaScript, API",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/edogola4/Real-time-Weather-Application"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "A simple calculator application for performing basic arithmetic operations.",
+    "image": "calculator",
+    "category": "utility",
+    "technologies": "HTML, CSS, JavaScript",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/edogola4/calculator"
+    }
+  },
+  {
+    "name": "Instagram Clone",
+    "desc": "A clone of the popular social media platform Instagram, built using React Native and Firebase.",
+    "image": "instagram_clone",
+    "category": "utility",
+    "technologies": "React Native, Firebase",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/edogola4/todo-app"
+    }
+  },
+  {
+    "name": "To-Do App",
+    "desc": "A To-Do list application with task management capabilities.",
+    "image": "todo_app",
+    "category": "utility",
+    "technologies": "HTML, CSS, JavaScript",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/edogola4/todo-app"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Personal portfolio website showcasing projects, skills, and contact information.",
+    "image": "portfolio",
+    "category": "web",
+    "technologies": "HTML, CSS, JavaScript",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/edogola4/portfolio"
+    }
+  },
+  {
+    "name": "Instagram Clone",
+    "desc": "A clone of the popular social media platform Instagram, built using React Native and Firebase.",
+    "image": "instagram_clone",
+    "category": "mobile",
+    "technologies": "React Native, Firebase",
+    "links": {
+      "view": "#",
+      "code": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    }
+  }
+]
