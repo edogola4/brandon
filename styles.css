@@ -96,7 +96,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #05b2e7;
+  color: #161616;
 }
 header .navbar ul {
   list-style: none;
@@ -1349,7 +1349,6 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
-
 
 
 
