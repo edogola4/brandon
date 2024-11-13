@@ -1410,6 +1410,10 @@ margin-right: 8px;
   font-size: 34px;
   color: #012970;
 }
+.fas.fa-brain{
+  font-size: 34px;
+  color: #94edf0;
+}
 /* Define the animation */
 @keyframes rotateScale {
   0% {
