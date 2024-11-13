@@ -1,8 +1,9 @@
 {
     "welcome": {
-      "title": "Uncover Kenya's Hidden Treasures",
-      "intro": "From diverse landscapes to vibrant cultures and unmatched wildlife, Kenya offers an adventure unlike any other. Start your journey with us and experience the magic of this beautiful land!"
-    },
+    "title": "Welcome to My Project Section",
+    "intro": "Discover a selection of my work, where creativity meets functionality. Each project is crafted with attention to detail and a passion for innovation. Dive in to see how I bring ideas to life through code and design!"
+},
+
     "slides": [
       {
         "id": 1,
