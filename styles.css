@@ -1414,6 +1414,10 @@ margin-right: 8px;
   font-size: 34px;
   color: #94edf0;
 }
+.fas.fa-lightbulb{
+  font-size: 34px;
+  color: #00002c;
+}
 /* Define the animation */
 @keyframes rotateScale {
   0% {
