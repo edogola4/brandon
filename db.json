@@ -5,146 +5,143 @@
 },
 
     "slides": [
-      {
-        "id": 1,
-        "title": "Nairobi - The City in the Wild",
-        "description": "A blend of modern city life and thrilling wildlife experiences.",
-        "link": "#",
-        "image": "/gallery/recipe1.jpg"
-      },
-      {
-        "id": 2,
-        "title": "Mombasa - Coastal Paradise",
-        "description": "Vibrant culture, pristine beaches, and rich history await you.",
-        "link": "#",
-        "image": "/gallery/recipe2.jpg"
-      },
-      {
-        "id": 3,
-        "title": "Kisumu - Lakeside Charm",
-        "description": "A vibrant city by Lake Victoria, known for stunning sunsets, cultural heritage, and bustling markets.",
-        "link": "#",
-        "image": "/gallery/recipe3.jpg"
-      },
-      {
-        "id": 4,
-        "title": "Masai Mara - Safari Adventure",
-        "description": "One of the most famous safari destinations, home to the Great Migration.",
-        "link": "#",
-        "image": "/gallery/recipe4.jpg"
-      },
-      {
-        "id": 5,
-        "title": "Lake Nakuru - Flamingo Haven",
-        "description": "A sanctuary for wildlife, famous for its flamingos and rhinos.",
-        "link": "#",
-        "image": "/gallery/lake_nakuru_flamingos.jpg"
-      },
-      {
-        "id": 6,
-        "title": "Mount Kenya - Majestic Peaks",
-        "description": "The highest mountain in Kenya, offering incredible hiking and scenic views.",
-        "link": "#",
-        "image": "/gallery/mount_kenya.jpg"
-      },
-      {
-        "id": 7,
-        "title": "Lamu - Island Serenity",
-        "description": "Step back in time in this ancient town with Swahili culture and beautiful beaches.",
-        "link": "#",
-        "image": "/gallery/lamu.jpg"
-      },
-      {
-        "id": 8,
-        "title": "Tsavo - Wilderness Unbound",
-        "description": "One of Kenya's largest national parks, famed for its red elephants and vast landscapes.",
-        "link": "#",
-        "image": "/gallery/tsavo.jpg"
-      },
-      {
-        "id": 9,
-        "title": "Aberdare Range - Misty Mountains",
-        "description": "A lush mountainous area known for its waterfalls, forests, and diverse wildlife.",
-        "link": "#",
-        "image": "/gallery/aberdare.jpg"
-      },
-      {
-        "id": 10,
-        "title": "Samburu - Untamed Beauty",
-        "description": "A less-crowded reserve known for its unique wildlife and vibrant Samburu culture.",
-        "link": "#",
-        "image": "/gallery/samburu.jpg"
-      },
-      {
-        "id": 11,
-        "title": "Hell's Gate - Adventure Playground",
-        "description": "A unique landscape with geothermal features, cliffs, and opportunities for rock climbing.",
-        "link": "#",
-        "image": "/gallery/hells_gate.jpg"
-      },
-      {
-        "id": 12,
-        "title": "Diani Beach - Tropical Bliss",
-        "description": "White sandy beaches, clear waters, and a favorite for water sports enthusiasts.",
-        "link": "#",
-        "image": "/gallery/diani_beach.jpg"
-      },
-      {
-        "id": 13,
-        "title": "Laikipia Plateau - Wildlife Haven",
-        "description": "Home to endangered species, conservation projects, and luxury eco-lodges.",
-        "link": "#",
-        "image": "/gallery/laikipia.jpg"
-      },
-      {
-        "id": 14,
-        "title": "Malindi - Historical Coastline",
-        "description": "Rich in history with ancient ruins, golden beaches, and a Swahili culture blend.",
-        "link": "#",
-        "image": "/gallery/malindi.jpg"
-      },
-      {
-        "id": 15,
-        "title": "Chyulu Hills - Lava Landscape",
-        "description": "Volcanic hills with stunning landscapes, caves, and incredible biodiversity.",
-        "link": "#",
-        "image": "/gallery/chyulu_hills.jpg"
-      },
-      {
-        "id": 16,
-        "title": "Meru National Park - Wild Escape",
-        "description": "Diverse wildlife and lush landscapes make this a hidden gem for nature lovers.",
-        "link": "#",
-        "image": "/gallery/meru.jpg"
-      },
-      {
-        "id": 17,
-        "title": "Ol Pejeta Conservancy - Rhino Sanctuary",
-        "description": "A haven for rhinos and a leading example in wildlife conservation.",
-        "link": "#",
-        "image": "/gallery/ol_pejeta.jpg"
-      },
-      {
-        "id": 18,
-        "title": "Mount Elgon - Untamed Beauty",
-        "description": "Kenya’s second-highest mountain with scenic trails, caves, and waterfalls.",
-        "link": "#",
-        "image": "/gallery/mount_elgon.jpg"
-      },
-      {
-        "id": 19,
-        "title": "Thomson Falls - Scenic Waterfall",
-        "description": "A breathtaking waterfall in Nyahururu, surrounded by lush greenery.",
-        "link": "#",
-        "image": "/gallery/thomson_falls.jpg"
-      },
-      {
-        "id": 20,
-        "title": "Shimba Hills - Coastal Forest",
-        "description": "Tropical forest near the coast, with waterfalls, rare plants, and rich wildlife.",
-        "link": "#",
-        "image": "/gallery/shimba_hills.jpg"
-      }
-    ]
-  }
-  
+        {
+            "name": "AI-Powered Chatbot for Customer Support",
+            "desc": "",
+            "image": "aichatbot",
+            "category": "ai",
+            "technologies": "Python, TensorFlow, AWS, NLP, Chatbot API",
+            "links": {
+              "view": "#",
+              "image": "/gallery/recipe.jpg",
+              "code": "#"
+
+            }
+          },
+          {
+            "name": "E-commerce Website with Dynamic Recommendation Engine",
+            "desc": "",
+            "image": "ecommerce",
+            "category": "web",
+            "technologies": "React.js, Node.js, MongoDB, Python, Stripe API",
+            "links": {
+              "view": "#",
+              "code": "#"
+            }
+          },
+          {
+            "name": "Serverless IoT Home Automation System",
+            "desc": "",
+            "image": "iothomeautomation",
+            "category": "iot",
+            "technologies": "AWS IoT, Lambda, MQTT, Python, React Native, Google Assistant",
+            "links": {
+              "view": "#",
+              "code": "#"
+            }
+          },
+          {
+            "name": "Email-Signature-Extraction-with-LLMs",
+            "desc": "",
+            "image": "email_signature_extraction",
+            "category": "ai",
+            "technologies": "Python, OpenAI API, Anthropic API",
+            "links": {
+              "view": "#",
+              "code": "https://github.com/edogola4/Email-Signature-Extraction-with-LLMs"
+            }
+          },
+          {
+            "name": "Restaurant Website",
+            "desc": "",
+            "image": "restaurant_website",
+            "category": "web",
+            "technologies": "HTML, CSS, JavaScript",
+            "links": {
+              "view": "#",
+              "code": "https://github.com/edogola4/restaurant-website"
+            }
+          },
+          {
+            "name": "Weather App",
+            "desc": "",
+            "image": "weather_app",
+            "category": "web",
+            "technologies": "HTML, CSS, JavaScript, API Integration",
+            "links": {
+              "view": "#",
+              "code": "https://github.com/edogola4/weather-app"
+            }
+          },
+          {
+            "name": "Real-time Weather Application",
+            "desc": "",
+            "image": "real_time_weather",
+            "category": "web",
+            "technologies": "HTML, CSS, JavaScript, API",
+            "links": {
+              "view": "#",
+              "code": "https://github.com/edogola4/Real-time-Weather-Application"
+            }
+          },
+          {
+            "name": "Calculator",
+            "desc": "",
+            "image": "calculator",
+            "category": "utility",
+            "technologies": "HTML, CSS, JavaScript",
+            "links": {
+              "view": "#",
+              "code": "https://github.com/edogola4/calculator"
+            }
+          },
+          {
+            "name": "Instagram Clone",
+            "desc": "",
+            "image": "instagram_clone",
+            "category": "utility",
+            "technologies": "React Native, Firebase",
+            "links": {
+              "view": "#",
+              "code": "https://github.com/edogola4/todo-app"
+            }
+          },
+          {
+            "name": "To-Do App",
+            "desc": "A To-Do list application with task management capabilities.",
+            "image": "todo_app",
+            "category": "utility",
+            "technologies": "HTML, CSS, JavaScript",
+            "links": {
+              "view": "#",
+              "code": "https://github.com/edogola4/todo-app"
+            }
+          },
+          {
+            "name": "Portfolio",
+            "desc": "Personal portfolio website showcasing projects, skills, and contact information.",
+            "image": "portfolio",
+            "category": "web",
+            "technologies": "HTML, CSS, JavaScript",
+            "links": {
+              "view": "#",
+              "code": "https://github.com/edogola4/portfolio"
+            }
+          },
+          {
+            "name": "Instagram Clone",
+            "desc": "A clone of the popular social media platform Instagram, built using React Native and Firebase.",
+            "image": "instagram_clone",
+            "category": "mobile",
+            "technologies": "React Native, Firebase",
+            "links": {
+              "view": "#",
+              "code": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+              "image": "/gallery/recipe7.jpg"
+
+            }
+          }
+        ]
+    }        
+        
+    
