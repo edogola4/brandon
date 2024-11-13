@@ -1386,6 +1386,11 @@ margin-right: 8px;
 .fas.fa-database{
   font-size: 34px;
 }
+.fab.fa-aws{
+  font-size: 34px;
+  color: orange;
+}
+
 /* Define the animation */
 @keyframes rotateScale {
   0% {
