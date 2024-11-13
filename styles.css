@@ -1352,3 +1352,25 @@ form .button-area {
 
 
 
+/**
+Additional Customization:
+*/
+.fab.fa-python {
+  font-size: 34px; /* Adjust the size */
+  color: #306998; /* Python's signature color */
+  margin-right: 8px; /* Space between icon and text */
+  animation: rotateScale 1.5s ease-in-out infinite; /* Add animation */
+}
+
+/* Define the animation */
+@keyframes rotateScale {
+  0% {
+    transform: rotate(0deg) scale(1); /* Initial state */
+  }
+  50% {
+    transform: rotate(360deg) scale(1.2); /* Rotate and scale up */
+  }
+  100% {
+    transform: rotate(0deg) scale(1); /* Back to original state */
+  }
+}
