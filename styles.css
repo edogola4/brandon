@@ -764,9 +764,9 @@ header .navbar ul li a:hover {
   /* education section ends */
 
 
- /* work section starts */
+ /* work section starts *
 .work {
-  /* background: #010124; */
+  /* background: #010124; *
   background: linear-gradient(to bottom, #000031, #00002c);
 }
 .work h2 {
@@ -883,6 +883,152 @@ header .navbar ul li a:hover {
   transform: translateX(5px);
 }
 /* work section ends */
+
+#explore-kenya {
+  padding: 80px 0;
+  background: linear-gradient(135deg, #fff3e0, #ffeb3b);
+  text-align: center;
+}
+
+/* Welcome Text */
+#welcome-text {
+  color: #222;
+  text-align: center;
+}
+
+#welcome-title {
+  font-size: 48px;
+  font-weight: bold;
+  color: #d32f2f;
+  margin-bottom: 20px;
+}
+
+.intro-text {
+  font-size: 20px;
+  line-height: 1.8;
+  max-width: 750px;
+  margin: 0 auto 50px;
+  color: #424242;
+  padding: 20px;
+  background: rgba(255, 235, 59, 0.1);
+  border-radius: 10px;
+}
+
+/* Slides */
+.slides {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.slide {
+  width: 320px;
+  height: 220px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  background-size: cover;
+  background-position: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.slide:hover {
+  transform: scale(1.05);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
+}
+
+.slide-info {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 15px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  text-align: center;
+  opacity: 0;
+  transform: translateY(15px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.slide:hover .slide-info {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.slide-info h3 {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.slide-info p {
+  margin-top: 5px;
+  font-size: 16px;
+}
+
+.slide-link {
+  display: inline-block;
+  color: #ffca28;
+  font-weight: bold;
+  margin-top: 10px;
+  text-decoration: underline;
+  transition: color 0.3s;
+}
+
+.slide-link:hover {
+  color: #ffd54f;
+}
+
+/* Explore More Button */
+.explore-more {
+  display: inline-block;
+  padding: 12px 30px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  background-color: #ffca28;
+  border-radius: 25px;
+  text-decoration: none;
+  transition: transform 0.3s ease, background 0.3s;
+  box-shadow: 0px 5px 25px rgba(48, 68, 247, 0.8), 0px 0px 30px rgba(48, 68, 247, 0.8); /* Glow effect on hover */
+
+}
+
+.explore-more:hover {
+  background-color: #ffa726;
+  transform: scale(1.05);
+}
+
+/* Animation Keyframes */
+@keyframes fadeInUp {
+  0% {
+      opacity: 0;
+      transform: translateY(20px);
+  }
+  100% {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+/*end*/
+
+
+
+
+
+
+
+
+
+
+
 
 /* experience section starts */
 .experience .timeline {
