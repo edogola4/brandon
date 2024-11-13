@@ -1379,7 +1379,13 @@ margin-right: 8px;
   font-size: 34px;
   color: #012970;
 }
-
+.fab.fa-node{
+  font-size: 34px;
+  color:#3cff0bf5;
+}
+.fas.fa-database{
+  font-size: 34px;
+}
 /* Define the animation */
 @keyframes rotateScale {
   0% {
