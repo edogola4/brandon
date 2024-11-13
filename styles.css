@@ -1362,6 +1362,13 @@ Additional Customization:
   animation: rotateScale 1.5s ease-in-out infinite; /* Add animation */
 }
 
+.fas.fa-code {
+font-size: 34px;
+color: #011aff;
+margin-right: 8px;
+animation: rotateScale 1.5s ease-in-out infinite; /* Add animation */
+}
+
 /* Define the animation */
 @keyframes rotateScale {
   0% {
@@ -1374,3 +1381,8 @@ Additional Customization:
     transform: rotate(0deg) scale(1); /* Back to original state */
   }
 }
+
+
+
+
+
