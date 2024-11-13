@@ -1402,6 +1402,10 @@ margin-right: 8px;
   font-size: 34px;
   color: #007bb6;
 }
+.fab.fa-github{
+  font-size: 34px;
+  color: #000;
+}
 /* Define the animation */
 @keyframes rotateScale {
   0% {
