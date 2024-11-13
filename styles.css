@@ -1406,6 +1406,10 @@ margin-right: 8px;
   font-size: 34px;
   color: #000;
 }
+.fas.fa-project-diagram{
+  font-size: 34px;
+  color: #012970;
+}
 /* Define the animation */
 @keyframes rotateScale {
   0% {
