@@ -1359,14 +1359,21 @@ Additional Customization:
   font-size: 34px; /* Adjust the size */
   color: #306998; /* Python's signature color */
   margin-right: 8px; /* Space between icon and text */
-  animation: rotateScale 1.5s ease-in-out infinite; /* Add animation */
+  /*animation: rotateScale 1.5s ease-in-out infinite;  Add animation */
 }
 
 .fas.fa-code {
 font-size: 34px;
 color: #011aff;
 margin-right: 8px;
-animation: rotateScale 1.5s ease-in-out infinite; /* Add animation */
+/*animation: rotateScale 1.5s ease-in-out infinite;  Add animation */
+}
+
+.fab.fa-js {
+  font-size: 34px;
+  color: darkgoldenrod;
+  margin-right: 8px;
+/*animation: rotateScale 1.5s ease-in-out infinite; * Add animation */
 }
 
 /* Define the animation */
