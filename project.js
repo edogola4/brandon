@@ -1,16 +1,8 @@
+// js/projects.js
 fetch('db.json')
     .then(response => response.json())
     .then(data => {
-        // Populate welcome section
-        document.getElementById("welcome-title").textContent = data.welcome.title;
-        document.getElementById("welcome-intro").textContent = data.welcome.intro;
-
-        // Create slides
-        const slidesContainer = document.getElementById("slides");
-        const exploreMoreButton = document.querySelector(".explore-more");
-
-        // Track the displayed slides
-        let slidesDisplayed = 5;
+        const slidesContainer = document.getElementById("projects-slides");
 
         // Function to create a slide element
         function createSlide(slide) {
@@ -39,17 +31,7 @@ fetch('db.json')
             slidesContainer.appendChild(slideDiv);
         }
 
-        // Display the first 5 slides
-        data.slides.slice(0, slidesDisplayed).forEach(createSlide);
-
-        // Show more slides when "Explore More" is clicked
-        exploreMoreButton.addEventListener("click", (event) => {
-            event.preventDefault(); // Prevent the link from navigating
-            const remainingSlides = data.slides.slice(slidesDisplayed);
-            remainingSlides.forEach(createSlide);
-            exploreMoreButton.style.display = "none"; // Hide the button after showing all slides
-        });
+        // Display all slides
+        data.slides.forEach(createSlide);
     })
     .catch(error => console.error("Error loading data:", error));
-
-
