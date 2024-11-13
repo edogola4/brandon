@@ -33,13 +33,13 @@ fetch('db.json')
             // View and code links
             const viewLink = document.createElement("a");
             viewLink.href = slide.links.view;
-            viewLink.textContent = "View Project";
+            viewLink.textContent = "";
             viewLink.target = "_blank";
             viewLink.classList.add("slide-link");
 
             const codeLink = document.createElement("a");
             codeLink.href = slide.links.code;
-            codeLink.textContent = "View Code";
+            codeLink.textContent = "View Project";
             codeLink.target = "_blank";
             codeLink.classList.add("slide-link");
 

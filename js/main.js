@@ -42,7 +42,7 @@ fetch('db.json')
 
             const codeLink = document.createElement("a");
             codeLink.href = slide.links.code;
-            codeLink.textContent = "View Code";
+            codeLink.textContent = "";
             codeLink.target = "_blank";
             codeLink.classList.add("slide-link");
 

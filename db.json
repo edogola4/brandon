@@ -13,8 +13,9 @@
             "technologies": "Python, TensorFlow, AWS, NLP, Chatbot API",
             "links": {
               "view": "#",
-              "image": "/gallery/recipe.jpg",
+              "image": "/gallery/aichatbot.png",
               "code": "#"
+
 
             }
           },
@@ -26,7 +27,9 @@
             "technologies": "React.js, Node.js, MongoDB, Python, Stripe API",
             "links": {
               "view": "#",
-              "code": "#"
+              "code": "#",
+              "image": "/gallery/ecommerce.png"
+
             }
           },
           {
@@ -37,7 +40,9 @@
             "technologies": "AWS IoT, Lambda, MQTT, Python, React Native, Google Assistant",
             "links": {
               "view": "#",
-              "code": "#"
+              "code": "#",
+              "image": "/gallery/iothomeautomation.png"
+
             }
           },
           {
@@ -48,7 +53,9 @@
             "technologies": "Python, OpenAI API, Anthropic API",
             "links": {
               "view": "#",
-              "code": "https://github.com/edogola4/Email-Signature-Extraction-with-LLMs"
+              "code": "https://github.com/edogola4/Email-Signature-Extraction-with-LLMs",
+              "image": "/gallery/email_signature_extraction.png"
+
             }
           },
           {
@@ -59,7 +66,9 @@
             "technologies": "HTML, CSS, JavaScript",
             "links": {
               "view": "#",
-              "code": "https://github.com/edogola4/restaurant-website"
+              "code": "https://github.com/edogola4/restaurant-website",
+              "image": "/gallery/restaurant_website.png"
+
             }
           },
           {
@@ -70,7 +79,9 @@
             "technologies": "HTML, CSS, JavaScript, API Integration",
             "links": {
               "view": "#",
-              "code": "https://github.com/edogola4/weather-app"
+              "code": "https://github.com/edogola4/weather-app",
+              "image": "/gallery/weather_app.png"
+
             }
           },
           {
@@ -81,7 +92,9 @@
             "technologies": "HTML, CSS, JavaScript, API",
             "links": {
               "view": "#",
-              "code": "https://github.com/edogola4/Real-time-Weather-Application"
+              "code": "https://github.com/edogola4/Real-time-Weather-Application",
+              "image": "/gallery/real_time_weather.png"
+
             }
           },
           {
@@ -92,7 +105,9 @@
             "technologies": "HTML, CSS, JavaScript",
             "links": {
               "view": "#",
-              "code": "https://github.com/edogola4/calculator"
+              "code": "https://github.com/edogola4/calculator",
+              "image": "/gallery/calculator.png"
+
             }
           },
           {
@@ -103,7 +118,9 @@
             "technologies": "React Native, Firebase",
             "links": {
               "view": "#",
-              "code": "https://github.com/edogola4/todo-app"
+              "code": "https://github.com/edogola4/todo-app",
+              "image": "/gallery/instagram_clone.png"
+
             }
           },
           {
@@ -114,7 +131,9 @@
             "technologies": "HTML, CSS, JavaScript",
             "links": {
               "view": "#",
-              "code": "https://github.com/edogola4/todo-app"
+              "code": "https://github.com/edogola4/todo-app",
+              "image": "/gallery/todo_app.jpg"
+
             }
           },
           {
@@ -125,19 +144,34 @@
             "technologies": "HTML, CSS, JavaScript",
             "links": {
               "view": "#",
-              "code": "https://github.com/edogola4/portfolio"
+              "code": "https://github.com/edogola4/portfolio",
+              "image": "/gallery/portfolio.png"
+
             }
           },
           {
-            "name": "Instagram Clone",
-            "desc": "A clone of the popular social media platform Instagram, built using React Native and Firebase.",
-            "image": "instagram_clone",
+            "name": "Netflix Clone",
+            "desc": "",
+            "image": "movie_website",
+            "category": "web",
+            "technologies": "HTML, CSS, JavaScript",
+            "links": {
+              "view": "#",
+              "code": "https://github.com/edogola4/portfolio",
+              "image": "/gallery/movie_website.png"
+
+            }
+          },
+          {
+            "name": "Travel Website",
+            "desc": "",
+            "image": "travel_website",
             "category": "mobile",
             "technologies": "React Native, Firebase",
             "links": {
               "view": "#",
-              "code": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-              "image": "/gallery/recipe7.jpg"
+              "code": "",
+              "image": "/gallery/travel_website.png"
 
             }
           }
