@@ -163,6 +163,19 @@
             }
           },
           {
+            "name": "Password Generator",
+            "desc": "",
+            "image": "pass_gen",
+            "category": "web",
+            "technologies": "HTML, CSS, JavaScript",
+            "links": {
+              "view": "#",
+              "code": "https://github.com/edogola4/portfolio",
+              "image": "/gallery/pass_gen.png"
+
+            }
+          },
+          {
             "name": "Travel Website",
             "desc": "",
             "image": "travel_website",
