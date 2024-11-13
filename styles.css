@@ -1394,6 +1394,10 @@ margin-right: 8px;
   font-size: 34px;
   color: blue;
 }
+.fab.fa-html5{
+  font-size: 34px;
+  color: rgb(250, 93, 36);
+}
 /* Define the animation */
 @keyframes rotateScale {
   0% {
