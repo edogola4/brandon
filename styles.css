@@ -1390,7 +1390,10 @@ margin-right: 8px;
   font-size: 34px;
   color: orange;
 }
-
+.fas.fa-robot{
+  font-size: 34px;
+  color: blue;
+}
 /* Define the animation */
 @keyframes rotateScale {
   0% {
