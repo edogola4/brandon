@@ -1398,6 +1398,10 @@ margin-right: 8px;
   font-size: 34px;
   color: rgb(250, 93, 36);
 }
+.fab.fa-css3-alt{
+  font-size: 34px;
+  color: #007bb6;
+}
 /* Define the animation */
 @keyframes rotateScale {
   0% {
