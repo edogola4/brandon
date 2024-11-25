@@ -56,7 +56,7 @@ fetch('db.json')
             slidesContainer.appendChild(slideDiv);
         }
 
-        // Display the first 3 slides only
-        data.slides.slice(0, 3).forEach(createSlide);
+        // Display the first 4 slides only
+        data.slides.slice(0, 4).forEach(createSlide);
     })
     .catch(error => console.error("Error loading data:", error));
