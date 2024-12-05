@@ -1,6 +1,6 @@
 # Brandon Ogola - Personal Portfolio
 
-Welcome to **Brandon Ogola's** personal portfolio website. Brandon is a passionate **Full-Stack Web Developer** and **Android App Developer** based in Nairobi, Kenya. This portfolio showcasesmy skills, projects, and professional background in web development, AI, and more.
+Welcome to **Brandon Ogola's** personal portfolio website. Brandon is a passionate **Full-Stack Web Developer** and **Android App Developer** based in Nairobi, Kenya. This portfolio showcases my skills, projects, and professional background in web development, AI, and more.
 
 
 ![Preview](./gallery/preview.png)
