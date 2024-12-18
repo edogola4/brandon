@@ -78,6 +78,27 @@ document.addEventListener('visibilitychange',
     backDelay: 500,
 });*/
 // <!-- typed js effect ends -->
+// <!-- typed.js effect starts -->
+var typed = new Typed(".typing-text", {
+    strings: [
+        "Full Stack Development🚀",
+        "Frontend Development with React.js",
+        "Backend Development with Node.js and Express",
+        "Responsive Web Design",
+        "AI and Machine Learning Applications",
+        "Cloud Solutions with AWS",
+        "API Integration and Development",
+        "Database Management with MongoDB and PostgreSQL",
+        "IoT Systems and Automation",
+        "DevOps with Docker and CI/CD Pipelines",
+        "Building Scalable Web Applications"
+    ],
+    loop: true,
+    typeSpeed: 50,
+    backSpeed: 30,
+    backDelay: 1000,
+});
+// <!-- typed.js effect ends -->
 
 
 
