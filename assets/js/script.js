@@ -78,25 +78,7 @@ document.addEventListener('visibilitychange',
     backDelay: 500,
 });*/
 // <!-- typed js effect ends -->
-// <!-- typed js effect starts -->
-var typed = new Typed(".typing-text", {
-    strings: [
-        "Full Stack Development",
-        "Frontend Development with React.js",
-        "Backend Development with Node.js",
-        "Web Designing and Optimization",
-        "AI and Machine Learning Solutions",
-        "IoT and Home Automation Systems",
-        "Cloud Development with AWS",
-        "API Integration and Development",
-        "Responsive Web Design"
-    ],
-    loop: true,
-    typeSpeed: 50,
-    backSpeed: 30,
-    backDelay: 1000,
-});
-// <!-- typed js effect ends -->
+
 
 
 async function fetchData(type = "skills") {
